@@ -36,7 +36,7 @@
 ![]()<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <br><br>
 
-# Connect With Me <img src="https://github.com/RishabhHM/RishabhHM/blob/master/Assets/Handshake.gif" height="32px">
+## Connect With Me <img src="https://github.com/RishabhHM/RishabhHM/blob/main/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/rishabh-hm/">
     <img align="left" alt="Rishabh Madani | Linkedin" width="24px" src="https://github.com/RishabhHM/RishabhHM/blob/main/Assets/Linkedin.svg" />

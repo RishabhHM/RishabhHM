@@ -3,12 +3,12 @@
 ### About Me
 
 -   <b>👋</b> &nbsp; My name is Rishabh Madani.
--   <b>👨‍🎓</b> &nbsp; Junior Year Student of Computer Science and Engineering at <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and Technology</b>, Kattankulatur</a>.
--   <b>👨‍💻</b> &nbsp; A <b>Tech Enthusiast</b>, always on a lookout for an excellent opportunity to make new contacts and build invaluable relationships with peers from around the world.
--   <b>🌱</b> &nbsp; I’m currently learning Data Science and Analysis.
--   <b>👀</b> &nbsp; I’m interested in Web Development (MERN) and Application Development (Flutter).
+-   <b>👨‍🎓</b> &nbsp; Pursuing MS in Data Analytics Engineering from <a href="https://www.northeastern.edu/"> <b>Northeastern University</b>, Boston</a>.
+-   <b>👨‍💻</b> &nbsp; A <b>Tech Enthusiast</b>, with a fervent desire to explore new horizons, establish meaningful connections, and contribute to solving real-world challenges.
+-   <b>🌱</b> &nbsp; Currently exploring Statistical Experiments and Significance Testing for insightful data analysis.
+-   <b>👀</b> &nbsp; Interested in Data Science & Analytics, Web (MERN) and Application Development (Flutter).
 -   <b>❤️</b> &nbsp; When not behind the computer, one would usually find me immersed into <b>📖</b> &nbsp;or playing <b>🏸</b>.
--   <b>👨‍💼</b> &nbsp; <b>Corporate Lead</b> at <a href="https://dscsrm.com/"> <b>DSC SRM Powered by Google Developers</b></a>.
+<!-- -   <b>👨‍💼</b> &nbsp; <b>Corporate Lead</b> at <a href="https://dscsrm.com/"> <b>DSC SRM Powered by Google Developers</b></a>. -->
 -   <b>📫</b> &nbsp; Feel free to reach me by droping a mail at my inbox. You can also DM me on my Instagram or LinkedIn handle.
     <br><br>
 

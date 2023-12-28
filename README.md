@@ -44,7 +44,7 @@
   <a href="https://www.instagram.com/rishabh_hm/">
     <img align="left" alt="Rishabh Madani | Instagram" width="24px" src="./Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:rh5655@srmist.edu.in">
+  <a href="mailto:madani.r@northeastern.edu">
     <img align="left" alt="Rishabh Madani | Gmail" width="26px" src="./Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 <br><br><br><br>
